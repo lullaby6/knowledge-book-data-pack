@@ -6,7 +6,7 @@ Version: 1.21.X
 
 ## Video
 
-[Showcase](https://www.youtube.com/watch?v=Ve8YWdkYVsI)
+![Showcase](https://www.youtube.com/watch?v=Ve8YWdkYVsI)
 
 ## Commands
 
