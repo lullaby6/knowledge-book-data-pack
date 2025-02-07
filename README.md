@@ -4,6 +4,10 @@ A book that when you right click on it gives you all recipes!
 
 Version: 1.21.X
 
+## Video
+
+[Showcase](https://www.youtube.com/watch?v=Ve8YWdkYVsI)
+
 ## Commands
 
 Give:
