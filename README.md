@@ -6,8 +6,7 @@ Version: 1.21.X
 
 ## Video
 
-<h1>xd</h1>
-<iframe width="320" height="180" src="https://www.youtube.com/watch?v=Ve8YWdkYVsI" title="Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+[![Comprehensive Markdown Crash Course](https://img.youtube.com/vi/Ve8YWdkYVsI/mqdefault.jpg)](https://www.youtube.com/watch?v=Ve8YWdkYVsI)
 
 ## Commands
 
