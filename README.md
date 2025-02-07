@@ -2,7 +2,7 @@
 
 A book that when you right click on it gives you all recipes!
 
-Version: 1.21.4
+Version: `1.21.4`
 
 ## Recipe
 
