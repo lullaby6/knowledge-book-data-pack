@@ -1,14 +1,7 @@
 {
   "criteria": {
     "requirement": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "items": "#minecraft:villager_plantable_seeds"
-          }
-        ]
-      }
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "rewards": {
