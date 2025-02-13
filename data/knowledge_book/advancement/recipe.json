@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:villager_plantable_seeds"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": ["knowledge_book:knowledge_book"]
+  }
+}
