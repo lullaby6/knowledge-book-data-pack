@@ -5,6 +5,8 @@
     }
   },
   "rewards": {
-    "recipes": ["knowledge_book:knowledge_book"]
+    "recipes": [
+      "knowledge_book:knowledge_book"
+    ]
   }
 }

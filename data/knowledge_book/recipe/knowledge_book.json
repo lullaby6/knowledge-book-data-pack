@@ -16,12 +16,21 @@
                 "has_consume_particles": false
             },
             "minecraft:custom_data": {
-                "knowledge_book": "knowledge_book"
+                "knowledge_book": true
             },
             "minecraft:max_stack_size": 1,
             "minecraft:item_model": "minecraft:knowledge_book",
-            "minecraft:custom_name": "{\"text\":\"Knowledge Book\",\"italic\": false}",
-            "minecraft:lore": ["{\"text\":\"Unlock all recipes\",\"italic\": false,\"color\":\"gray\"}"]
+            "minecraft:custom_name": {
+                text: "Knowledge Book",
+                italic: false
+            },
+            "minecraft:lore": [
+                {
+                    text: "Unlock all recipes",
+                    italic: false,
+                    color: "gray"
+                }
+            ]
         }
     }
 }

@@ -11,7 +11,7 @@
 
 A book that when you right click on it gives you all recipes!
 
-Version: `1.21.4`
+Version: `1.21.5`
 
 ## 📂 Installation
 
@@ -19,7 +19,7 @@ Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
 
 ## 👾 Bugs/Issues
 
-Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/knowledge-book-data-pack/issues), or a comment in [Planet Minecraft](https://www.planetminecraft.com/data-pack/knowledge-book/).
+Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
 
 ## 🛠️ Recipe
 

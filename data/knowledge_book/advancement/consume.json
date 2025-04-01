@@ -5,7 +5,9 @@
       "conditions": {
         "item": {
           "components": {
-            "minecraft:custom_data": {"knowledge_book":"knowledge_book"}
+            "minecraft:custom_data": {
+              "knowledge_book": true
+            }
           }
         }
       }
